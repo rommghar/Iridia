@@ -1,41 +1,69 @@
 ## **Los Caballeros de Lena**
 
-**Nombre**: Caballeros de [[Lena]]
+**Nombre**: Caballeros de [[Lena Thoren]]
 **[Escudo](Escudo%20de%20los%20Caballeros%20de%20Lena.png)**: Una mujer de perfil con cabellos largos y ondulados
 **Colores**: Rojo y amarillo
 **Lema**: Luchamos con honor, guiados por el espíritu de Lena.
 
 ---
 
-Los Caballeros de Lena son una fuerza militar entrenada y organizada con el propósito de proteger el reino y sus habitantes. Su existencia se remonta a los días posteriores a la Guerra de las Razas, cuando el legado de Lena Thoren se convirtió en símbolo de resistencia y liderazgo. Aunque no son una orden sagrada ni una milicia civil, siguen una estricta estructura militar y operan como el brazo armado de la corona.
+Los Caballeros de Lena constituyen la principal fuerza militar organizada del reino humano. Su origen se remonta a los años posteriores a la Guerra del Paso Quebrado, cuando la figura de Lena Thoren pasó de ser una comandante de emergencia a convertirse en símbolo de resistencia, disciplina y supervivencia.
 
-###### **Financiamiento y Organización**
+A diferencia de las órdenes caballerescas tradicionales, los Caballeros de Lena no son una orden sagrada ni una hermandad ideológica. Son, ante todo, una institución estatal, creada para garantizar la seguridad del reino y preservar el delicado equilibrio alcanzado tras la guerra.
 
-La corona es la principal financiadora de Los Caballeros de Lena, asegurando que sus soldados y guardias cuenten con los recursos necesarios para mantener la seguridad en ciudades y pueblos bajo su dominio. No operan como mercenarios contratados, sino como un ejército estatal altamente entrenado, dedicado exclusivamente a la defensa del reino.
+#### **Financiamiento y Rol Político**
 
-###### **Jerarquía y Formación**
+La corona es la principal financiadora y autoridad sobre los Caballeros de Lena. Esto asegura recursos, armamento y entrenamiento constante, pero también implica una realidad incómoda: la orden responde, en última instancia, a decisiones políticas.
 
-Siguiendo una disciplina militar rigurosa, la orden mantiene una estructura jerárquica bien definida. Su formación se imparte en academias militares especializadas, siendo [[Lena's Feith]], ubicada en la capital, la principal institución de entrenamiento. Además, una segunda academia en la ciudad de Hixel proporciona instrucción adicional y abastece de nuevos reclutas a las filas del ejército.
+No actúan como mercenarios ni pueden ser contratados por intereses privados. Sin embargo, su presencia en conflictos internos suele generar tensiones, especialmente en regiones donde la memoria de la guerra sigue viva.
 
-###### **Tipos de Tropas y Especialización**
+#### **Jerarquía y Formación**
 
-Los Caballeros de Lena no solo cuentan con soldados de infantería estándar, sino que también incluyen magos, clérigos y exploradores, todos ellos entrenados en las academias para desempeñar sus roles estratégicos en combate. Además, existen cuerpos especializados en menor medida, como arqueros de élite, unidades de caballería pesada y grupos de infiltración que operan en misiones más tácticas.
+La orden mantiene una estructura militar estricta, con rangos claramente definidos y una cadena de mando incuestionable.
 
-###### **Infraestructura y Recursos**
+La Academia de [[Lena's Feith]], situada en la capital, es el corazón doctrinal y estratégico de la orden. Allí se forman oficiales, estrategas y especialistas.  
+Una segunda academia, ubicada en [[Hixel]], cumple un rol más práctico y marcial, enfocada en el entrenamiento de tropas de línea y unidades costeras.
 
-Para garantizar la defensa del reino, la orden dispone de diversas estructuras militares:
-- **Torres de vigilancia** en el norte y el este, situadas estratégicamente cerca de los límites del reino.
-- **Fortalezas**, dos antiguas construcciones que jugaron un papel crucial en la gran guerra de hace algunos años. Aunque ahora están deterioradas y menos cuidadas, aún pueden ser utilizadas en caso de necesidad.
-- **Cuarteles**, presentes en cada ciudad y en menor escala en los pueblos, sirviendo como bases operativas para los soldados en servicio.
+La formación no se limita al combate: historia de la guerra, leyes del reino y doctrina de actuación civil forman parte obligatoria del aprendizaje.
 
-En cuanto al armamento y la forja de sus equipos, la capital alberga un grupo de herreros dedicados a la producción y reparación de armas y armaduras. Para situaciones de emergencia, el gremio de artesanos de diferentes ciudades y pueblos ha sido pactado para colaborar con la fabricación y mantenimiento de equipo bélico.
+##### **Tipos de Tropas y Especialización**
 
-###### **Código de Honor y Filosofía**
+Los Caballeros de Lena incluyen:
 
-Si bien Los Caballeros de Lena no son paladines dogmáticos, siguen un código de honor que rige su actuar. Se les exige disciplina, lealtad y justicia en todas sus acciones. Aunque su enfoque no es estrictamente misericordioso, tampoco recurren a la brutalidad innecesaria, asegurándose de tratar a criminales y prisioneros con un sentido de humanidad y justicia.
+- **Infantería pesada**, núcleo de la orden.
+- **Exploradores y rastreadores**, usados para patrullas y control territorial.
+- **Magos de apoyo**, entrenados para defensa y control del campo de batalla.
+- **Clérigos no sectarios**, dedicados a sanación y moral.
+- **Unidades especializadas**, como arqueros de élite, caballería pesada y pequeños grupos de infiltración e inteligencia.
 
-###### **Relación con la Sociedad**
+Estas fuerzas operan de manera coordinada, reflejando la filosofía de Lena: resistir, adaptarse y sostener.
 
-El pueblo en su mayoría los ve como protectores y guardianes del orden, confiando en su liderazgo para mantener la estabilidad en tiempos de incertidumbre. Su código de honor y dedicación a la seguridad de las ciudades han fortalecido su reputación como una fuerza de bien dentro del reino.
+##### **Infraestructura y Recursos**
+
+La orden mantiene una red de:
+
+- **Cuarteles** en todas las ciudades importantes.
+- **Destacamentos menores** en pueblos estratégicos.
+- **Torres de vigilancia** en zonas fronterizas.
+- Acceso limitado a **antiguas fortalezas** de la guerra, hoy en ruinas, cuyo uso genera controversia política.
+
+El equipamiento es producido principalmente en la capital, con apoyo de gremios artesanos bajo acuerdos de emergencia.
+
+##### **Código de Honor y Filosofía**
+
+Los Caballeros de Lena siguen un código de conducta basado en disciplina, lealtad y justicia. No se les exige misericordia absoluta, pero sí proporcionalidad. El abuso de poder, al menos en teoría, es castigado con dureza.
+
+Sin embargo, el llamado _“espíritu de Lena”_ no es interpretado de forma unánime. Algunos ven en él una guía de contención y defensa; otros, una justificación para la acción preventiva y la mano firme.
+
+Esta ambigüedad es fuente constante de tensiones internas.
+
+##### **Relación con la Sociedad**
+
+Para gran parte de la población humana, los Caballeros de Lena son protectores y símbolos de estabilidad. Para otros pueblos —especialmente elfos y enanos— representan el brazo armado de un orden impuesto.
+
+Así, la orden se mueve constantemente entre la admiración, la desconfianza y el temor.
+
+Lena Thoren fue una figura de unidad en la guerra.  
+Su legado, sin embargo, es una fuerza viva… y disputada.
 
 ---
