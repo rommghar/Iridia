@@ -27,7 +27,7 @@ El cambio de planos es posible, no hay conexiones fisicas y se requiere mucho po
 Criaturas infernales son creaciones de los VD en el "infierno" para recobrar poder y seguidores.
 
 # Naciones y Razas
-En principio hay 3 naciones principales en la "actualidad".
+En principio hay 5 naciones principales en la "actualidad".
 - Humanos
 - Elfos
 - Enanos
