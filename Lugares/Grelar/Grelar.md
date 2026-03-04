@@ -32,9 +32,39 @@ Para la gente de Grelar, está siempre en movimiento.
 
 ---
 
+## El pantano como maestro
+
+Las primeras comunidades que habitaron la zona no buscaron dominar el pantano, sino **aprender a convivir con él**.
+
+Con el paso de generaciones desarrollaron:
+- conocimientos botánicos avanzados
+- resistencia a enfermedades comunes del pantano
+- técnicas extremas de supervivencia
+- una alquimia nacida del error, no de los libros
+
+En Grelar, cada receta tiene una historia.  
+Y no todas terminan bien.
+
+---
+
 ## Origen e Historia
 
-Grelar fue fundada mucho antes de la guerra, por comunidades humanas que se asentaron atraídas por los recursos únicos del pantano. Con el tiempo desarrollaron:
+Fuera de Grelar, **nadie sabe con exactitud cuándo fue fundada**.
+
+En mapas antiguos, la zona figura simplemente como:
+- pantanos
+- delta anegado
+- tierras intransitables
+
+Durante siglos, no hubo registros oficiales de un asentamiento estable.  
+Solo después de la Guerra del Paso Quebrado, Grelar comenzó a aparecer en crónicas, rutas comerciales y documentos del reino.
+
+Dentro del propio poblado, tampoco existe un relato único:
+- no hay fecha fundacional
+- no hay mito oficial de origen
+- hay versiones fragmentadas, contradictorias y parciales
+
+Grelar fue visualizada en la psot-guerra, ya que los recursos provistos por el pantano eran únicos. Con el tiempo desarrollaron:
 
 - conocimientos botánicos avanzados
 - resistencia a enfermedades
@@ -53,23 +83,93 @@ Esto permitió que su gente conservara:
 
 ---
 
-## Gobierno Local
+### El pantano como maestro
 
-**Forma de gobierno:**  
-Consejo de Recolectores
+Las primeras comunidades que habitaron la zona no buscaron dominar el pantano, sino **aprender a convivir con él**.
 
-- Integrado por:
-    - herboristas
-    - alquimistas
-    - guías del pantano
-- No hay un líder único
-- Las decisiones se toman por consenso práctico
+Con el paso de generaciones desarrollaron:
+- conocimientos botánicos avanzados
+- resistencia a enfermedades comunes del pantano
+- técnicas extremas de supervivencia
+- una alquimia nacida del error, no de los libros
+
+En Grelar, cada receta tiene una historia.  
+Y no todas terminan bien.
+
+---
+
+### La guerra ignorada
+
+Durante la Guerra del Paso Quebrado, Grelar fue deliberadamente evitada.
+
+No por misericordia, sino por pragmatismo:
+- terreno impracticable
+- botín incierto
+- pérdidas casi garantizadas
+
+Aun así, Grelar no quedó al margen del conflicto:
+- recibió refugiados
+- ocultó desertores
+- enterró secretos que nunca fueron reclamados
+
+Existen tumbas sin nombre en el pantano que no figuran en ningún registro bélico.
+
+---
+
+### Relevancia post-guerra
+
+Tras el tratado, el mundo comenzó a mirar hacia Grelar.
+
+No porque hubiera cambiado,  
+sino porque **el resto lo había hecho**.
+
+El aumento de:
+- enfermedades
+- heridas mal curadas
+- necesidad de antídotos
+- demanda alquímica
+
+convirtió los saberes de Grelar en un recurso valioso.
+
+Grelar aceptó comerciar, pero nunca sin condiciones:
+- no todo se vende
+- no todo se explica
+- no todos pueden recolectar
+
+---
+
+### Soberanía y hospitalidad
+
+Aunque su origen es humano, Grelar **no se define por raza, linaje ni estatus**.
+
+Aquí no importa quién sos fuera del pantano.  
+Importa cómo te comportás dentro de él.
+
+- No se juzga por sangre.
+- No se juzga por títulos.
+- Sí se juzga por imprudencia, arrogancia y falta de respeto.
+
+Grelar es hospitalaria, pero nunca ingenua:
+- la ayuda no se ofrece fuera del poblado
+- el acceso no es inmediato
+- la confianza se observa, no se concede
+
+---
+
+## Gobierno: el Consejo de Recolectores
+
+Grelar se gobierna mediante el **Consejo de Recolectores**, integrado por:
+- herboristas
+- alquimistas
+- guías del pantano
+
+No existe un líder único.  
+Las decisiones se toman por consenso práctico y necesidad.
 
 La corona:
-
 - reconoce a Grelar
 - interviene lo mínimo indispensable
-- sabe que imponer autoridad aquí sería un error
+- entiende que imponer autoridad directa sería un error
 
 En Grelar, manda quien conoce el pantano, no quien tiene títulos.
 
